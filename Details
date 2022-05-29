@@ -1,0 +1,29 @@
+
+
+Topics
+
+  Feature of ES6
+    Spread Operator
+    Template Literals
+
+  Exception Handling
+
+  1 / 0
+  undefined ---> undefined.name
+
+  try/catch
+
+
+  Rest Countries ---> Data of all the Countries
+
+
+
+  Dynamic API Calls ---> Find weather for all the Countries
+    Dynamic Country ---> passing different country detail get weather detail
+
+    Openweather API 
+    Get Temperatue of all Countries
+
+  
+
+  
